@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Zots</h1>
 <h3 align="center">Cloud, Languages, Automation</h3>
 
-- 📚 I'm a PhD in Linguistics with a focus on Translation Studies
+- 📚 I'm a PhD in Linguistics working in Data Analytics
 - ☁️ I'm proficient in AWS and Azure architecture
 - 👨🏻‍💻 I'm studying Python and Go at the moment
 - 🐧 In my spare time, I contribute to Ubuntu documentation
