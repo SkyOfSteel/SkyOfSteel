@@ -3,7 +3,7 @@
 
 - 📚 I'm a PhD in Linguistics working in Data Analytics
 - ☁️ I'm proficient in AWS and Azure architecture
-- 👨🏻‍💻 I'm studying Python and Go at the moment
+- 👨🏻‍💻 I'm studying Python and Go with a focus on Infrastructure-as-Code
 - 🐧 In my spare time, I contribute to Ubuntu documentation
 - 🇺🇳 I volunteered at UNDP to translate a video course on [Multidimensional Poverty Index](https://www.youtube.com/watch?v=JCXxyHyNVsw&list=PLS0v3MnpWiBfgm_d0JUzbRnNxtZoM8gfj)
 <h3 align="left">Connect with me:</h3>
