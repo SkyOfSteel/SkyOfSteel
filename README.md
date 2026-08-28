@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Zots</h1>
+<h1 align="center">Hi, I'm Ivan Zots 👋</h1>
 <h3 align="center">Cloud, Languages, Automation</h3>
 
 - 📚 I'm a PhD in Linguistics working in Data Analytics
